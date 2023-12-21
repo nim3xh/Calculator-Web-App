@@ -41,4 +41,4 @@ A simple and stylish calculator web application built with HTML5 canvas and Java
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/nim3xh/-Calculator-Web-App.git>
